@@ -1,0 +1,33 @@
+[
+    {
+    
+        "id":1,
+        "msgNo":"18 ",
+        "category":"personal",
+        "colClass":"col-3",
+        "itemList" : {
+        "ids":[
+            "id0",
+            "id1"
+        ]
+        },
+        "borderClass":"border-span-2"
+    
+    },
+    {
+        "id":0,
+        "msgNo":"40 ",
+        "category":"Bussiness",
+        "colClass":"col-3",
+        "itemList" : {
+            "ids":[
+                "id0",
+                "id1"
+            ]
+        },
+        "borderClass":"border-span"
+        
+    }
+    
+    ]
+    
